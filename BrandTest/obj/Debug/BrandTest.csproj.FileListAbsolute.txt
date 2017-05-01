@@ -1,0 +1,4 @@
+c:\users\cbert\documents\visual studio 2010\Projects\BrandTest\BrandTest\bin\BrandTest.dll
+c:\users\cbert\documents\visual studio 2010\Projects\BrandTest\BrandTest\bin\BrandTest.pdb
+c:\users\cbert\documents\visual studio 2010\Projects\BrandTest\BrandTest\obj\Debug\BrandTest.dll
+c:\users\cbert\documents\visual studio 2010\Projects\BrandTest\BrandTest\obj\Debug\BrandTest.pdb
